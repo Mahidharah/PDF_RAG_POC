@@ -1,0 +1,6 @@
+langchain_community
+PyMuPDF
+pypdf
+pdfminer.six
+bs4
+re
